@@ -72,7 +72,7 @@ def extract_job_info(job, platform="Educarriere"):
 
 def scrape_educarriere():
   print("🔍 Recherche sur Educarriere...")
-  base_url = "https://emploi.educarriere.ci/emploi/page/all"
+  base_url = "https://emploi.educarriere.ci/emploi/page/all" # essayer de mettre dans l'URL le job rechercher pour cibler la recherche 
   jobs = []
 
   page_content = fetch_page(base_url, verify_ssl=False)
