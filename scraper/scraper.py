@@ -17,7 +17,7 @@ HEADERS = {
   "Accept-Language": "en-US,en;q=0.9",
 }
 
-COOKIES ={"AQEDAUute3kAWFQLAAABk1u3gvUAAAGTf8QG9U0AaqFPiht3MM_7YcOgabQARb0QdcTEjbeIR_25yNNUGhuoLA92CNX94VdjT1Dbmw8ehitGlYVF0Rg-1yWen8Y3_V9qcYL9T9qpXc6BztYRFA6Shn3h"}
+COOKIES ={"Remplacer par son coockie de connexion dans LinkedIn, aller dans la partie réseau et le récupérer"}
 
 # Créer une session pour améliorer les performances des requêtes HTTP
 session = requests.Session()
